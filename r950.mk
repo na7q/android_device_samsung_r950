@@ -16,6 +16,8 @@
 
 LOCAL_PATH := device/samsung/r950
 
+TARGET_VOICE_TECH := cdma
+
 # Init files
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/rootdir/init.smdk4x12.rc:root/init.smdk4x12.rc \
