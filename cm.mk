@@ -22,4 +22,4 @@ PRODUCT_MODEL := SCH-R950
 PRODUCT_MANUFACTURER := samsung
 
 # Set build fingerprint / ID / Product Name ect.
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=t0lteusc TARGET_DEVICE=t0lteusc BUILD_FINGERPRINT="samsung/t0lteusc/t0lteusc:4.1.2/JZO54K/R950VXAMB1:user/release-keys" PRIVATE_BUILD_DESC="t0lteusc-user 4.1.2 JZO54K R950VXAMB1 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=t0lteusc TARGET_DEVICE=t0lteusc BUILD_FINGERPRINT="samsung/t0lteusc/t0lteusc:4.1.2/JZO54K/R950VXAME2:user/release-keys" PRIVATE_BUILD_DESC="t0lteusc-user 4.1.2 JZO54K R950VXAME2 release-keys"
