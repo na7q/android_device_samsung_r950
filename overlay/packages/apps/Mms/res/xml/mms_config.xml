@@ -24,6 +24,11 @@
 <mms_config version="4">
     <!-- Flag indicating whether MMS should be enabled -->
     <bool name="enabledMMS">true</bool>
+    
+    
+    <!-- If true, the text message will be split every 160 characters.
+         If false, the text will never be split before being sent. -->
+    <bool name="enableSplitSMS">false</bool>
 
     <!-- Maximum message size in bytes for a MMS message -->
     <int name="maxMessageSize">1048576</int>
