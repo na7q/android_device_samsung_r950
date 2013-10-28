@@ -29,6 +29,12 @@
     <!-- If true, the text message will be split every 160 characters.
          If false, the text will never be split before being sent. -->
     <bool name="enableSplitSMS">false</bool>
+    
+    <bool name="enableMultipartSMS">true</bool>
+    
+    <!-- If true, the text message will be split every 160 characters.
+         If false, the text will never be split before being sent. -->
+    <bool name="enableSplitSMS">false</boo
 
     <!-- Maximum message size in bytes for a MMS message -->
     <int name="maxMessageSize">1048576</int>
